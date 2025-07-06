@@ -4,4 +4,4 @@
 
 # hướng dẫn chơi 
 
--trong game có trang hướng dẫn, tự vô mà đọc !!!
+-trong game có trang hướng dẫn!!!
